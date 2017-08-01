@@ -1,0 +1,16 @@
+body {
+	background-color: #42b6f4;
+}
+.appBox {
+	background-color: white;
+	width: 360px;
+	height: 250px;
+	padding: 20px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 60px;
+	border-radius: 6px;
+}
+input {
+	margin: 15px;
+}
